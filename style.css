@@ -142,14 +142,10 @@ body {
   flex-shrink: 0;
 }
 
-.btn-coming-soon {
-  cursor: default;
-  opacity: 0.65;
-}
-
-.btn-coming-soon:hover {
-  border-color: var(--color-border);
-  color: var(--color-text);
+.btn-icon {
+  font-size: 18px;
+  line-height: 1;
+  flex-shrink: 0;
 }
 
 /* ── Sections ── */
